@@ -1,0 +1,6 @@
+{
+  "test.py::AnimalTestCase::test_animals_can_speak": true,
+  "test/test.py::AnimalTestCase": true,
+  "test/test.py::AnimalTestCase::test_animals_can_speak": true,
+  "test/test.py::TodoTestCase::test_Todo": true
+}
